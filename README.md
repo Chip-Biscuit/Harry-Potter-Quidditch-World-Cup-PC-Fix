@@ -1,4 +1,4 @@
-# Harry-Potter-and-the-Quidditch-World-Cup-PC-Fix
+# Harry-Potter-Quidditch-World-Cup-PC-Fix
 
 This is the harry potter Quiditch World Cup d3d8 wrapper.
 
