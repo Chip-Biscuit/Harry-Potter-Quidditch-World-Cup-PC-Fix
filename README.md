@@ -8,7 +8,7 @@ simply go to releases download hpqwcfix.zip put the d3d8.dll and d3d8.ini into y
 
 you can edit settings in d3d8.ini 
 
-Default for resolution is 2 (1920 x 1080) 
+Default for resolution is (1920 x 1080) 
 
 Default for FOV is 0 origional game setting, you can set this to whatever you like in d3d9.ini
 
