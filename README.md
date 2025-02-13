@@ -1,6 +1,5 @@
 # Harry-Potter-Quidditch-World-Cup-PC-Fix
-
-https://github.com/Chip-Biscuit/Harry-Potter-Quidditch-World-Cup-PC-Fix/blob/main/qwcbeforeandafter.gif?raw=true
+![Image](https://github.com/user-attachments/assets/7c3015e5-cb9e-44e6-9204-7868ff9a352c)
 
 This is the harry potter Quiditch World Cup d3d8 wrapper.
 
