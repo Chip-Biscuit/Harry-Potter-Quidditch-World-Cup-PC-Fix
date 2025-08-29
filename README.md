@@ -7,7 +7,15 @@
 # Requirements before using fix
 IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD BEFORE USING THE FIX.
 
-Watch the official fix guide video here on how to install the game and use the fix - https://www.youtube.com/watch?v=0yXGO3415-o&list=PLIkBjPwB07CTqLWUmpo1Pel6p7Pc4RlOZ&index=5&t=1s 
+# Official video guide
+
+Watch the official fix guide video here on how to install the game and use the fix
+
+<a href="https://www.youtube.com/watch?v=0yXGO3415-o&list=PLIkBjPwB07CTqLWUmpo1Pel6p7Pc4RlOZ&index=5&t=1s">
+  <img src="https://github.com/user-attachments/assets/9b2710e3-a753-4417-9971-0e0d42e26afb" alt="The Hobbit 2003" width="480" height="360">
+</a><br>
+
+###### <i>Click the image above to watch the video</i>
 
 # Developer Menu/Fix Enhancers fix compatibility
 This fix is compatible with the developer console mod made by Spectral Platypus. Download the mod from here - https://github.com/SpectralPlatypus/QWC-Console/releases/tag/v1.2 and put the d3d8.dll and imggui.ini into the games install folder next to the QWC.exe file. You can then download the Fix Enhancers hpqwcfix-consolemodcompatable.zip file and extract its contents into the games install folder next to the QWC.exe file. This will then allow you to use both the developer menu and our fix together at the same time.
