@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 # Harry-Potter-Quidditch-World-Cup-PC-Fix
 
 ![qwc](https://github.com/user-attachments/assets/68e67e25-a30d-4286-837c-1d7f2d9ba02b)
